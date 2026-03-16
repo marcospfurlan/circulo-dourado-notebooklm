@@ -41,6 +41,9 @@ Glossário de Conceitos-Chave
 - Sistema Límbico: A área do cérebro "emocional" que processa o "Por quê", essencial para gerar lealdade e decisões viscerais.
 - Manipulação vs. Inspiração: Diferença entre motivar alguém por medo, preço ou pressão (manipulação) versus motivar por valores e crenças compartilhadas (inspiração)
 
+6 - Notebook
+- https://notebooklm.google.com/notebook/1c8ccc4b-a422-4bcf-8d6c-f71b2e64bbae
+
 Prompts reutilizáveis
 - Atue como um mentor estratégico. Analise o projeto [NOME DO PROJETO] e ajude-me a extrair o seu 'Por quê'. Ignore os resultados financeiros e foque no impacto humano e na dor que este projeto resolve. Por que este projeto deveria importar para alguém além de mim?
 - Como especialista em Business Intelligence, ajude-me a definir KPIs para o 'Como' e o 'O quê' de um projeto cujo 'Por quê' é [INSERIR PROPÓSITO]. Como posso medir se a execução (Como) está sendo consistente com o propósito original?
